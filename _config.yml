@@ -5,7 +5,7 @@ baseurl: ""
 url: "https://kayleigh-smith.github.io"
 
 #Personal information
-author: 
+author: Kayleigh Smith
 email: kayleigh.smith@ed.ac.uk
 university: University of Edinburgh
 
@@ -22,3 +22,7 @@ header_pages:
   - teaching.md
   - cv.md
   - contact.md
+
+# Custom style overrides
+sass:
+  style: compressed
