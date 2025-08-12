@@ -7,8 +7,9 @@ title: Home
 Please note this website is currently under development. For any information on current projects please contact me at kayleigh.smith@ed.ac.uk
 
 <div class="highlight-box">
+  
 ## Currently seeking employment
-I will be submitting my PhD thesis at the end of January 2026 and am actively searching for postdoctoral opporunities. If you know of any opportunities, or would like to discuss potential collaborations, please contact me at kayleigh.smith@ed.ac.uk 
+I will be submitting my PhD thesis at the end of January 2026 and am actively searching for postdoctoral opportunities. If you know of any opportunities, or would like to discuss potential collaborations, please contact me at kayleigh.smith@ed.ac.uk 
 </div>
 
 
