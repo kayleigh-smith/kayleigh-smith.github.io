@@ -1,0 +1,44 @@
+# Site settings
+title: "Kayleigh Smith"
+url: "https://kayleigh-smith.github.io"
+baseurl: ""
+
+# Author information
+author:
+  name: "Kayleigh Smith"
+  title: "PhD student"
+  institution: "University of Edinburgh"
+  email: "kayleigh.smith@ed.ac.uk"
+  orcid: "https://orcid.org/0000-0001-5773-7423"
+  researchgate: "https://www.researchgate.net/profile/Kayleigh-Smith-13"
+  scholar: "https://scholar.google.com/citations?user=UdpXNiAAAAAJ&hl=en"
+  linkedin: "https://linkedin.com/in/kayleighasmith"
+  bluesky: "https://bsky.app/profile/kayleighsmith.bsky.social"
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research"
+  - title: "Publications"
+    url: "/publications"
+  - title: "Teaching"
+    url: "/teaching"
+  - title: "CV"
+    url: "/cv"
+  - title: "Contact"
+    url: "/contact"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
