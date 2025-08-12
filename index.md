@@ -4,8 +4,6 @@ title: Home
 ---
 # Kayleigh Smith
 
-## About 
-
 I am current a PhD student in social psychology at the University of Edinburgh. My research interests include: 
 * Intra- and inter-group processes
 * Crowd psychology
