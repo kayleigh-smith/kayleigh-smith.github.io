@@ -15,7 +15,7 @@ My PhD research explores the relationships between football fans and their clubs
 
 ## Recent Publications and Presentations
 
-**May 2025:** [Presentation at 1st International Conference on Social Identity and Leadership and Followership (ICSILF) (pdf)](files/ICSILF%202025.pdf) <br>
+**May 2025:** [Presentation at 1st International Conference on Social Identity and Leadership and Followership (ICSILF) (pdf)](files/presentations/ICSILF%202025.pdf) <br>
 **May 2025:** [Football clubs as identity leaders: Communication and club action on fan-club relationships](https://osf.io/preprints/psyarxiv/5s92x_v1) pre-print available 
 
 
