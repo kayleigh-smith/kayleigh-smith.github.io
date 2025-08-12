@@ -1,0 +1,26 @@
+#Site settings
+title: Kayleigh Smith
+description: 
+baseurl: ""
+url: "https://kayleigh-smith.github.io"
+
+#Personal information
+author: 
+name: Kayleigh Smith
+email: kayleigh.smith@ed.ac.uk
+university: University of Edinburgh
+department: School of Philosophy, Psychology and Language Sciences
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Navigation
+header_pages:
+  - research.md
+  - publications.md
+  - teaching.md
+  - cv.md
+  - contact.md
