@@ -27,10 +27,10 @@ My PhD project explores the relationships between football fans and their clubs.
 
 ## Quick Links (website in progress)
 
--   [CV](cv.qmd)
--   [Research Projects](research.qmd)
--   [Publications](Publications.qmd)
--   [Presentations](presentations.qmd)
--   [Contact Information](contact.qmd)
+-   [CV](cv.md)
+-   [Research Projects](research.md)
+-   [Publications](Publications.md)
+-   [Presentations](presentations.md)
+-   [Contact Information](contact.md)
 
 ------------------------------------------------------------------------
