@@ -24,7 +24,7 @@ My PhD project explores the relationships between football fans and their clubs.
 
 -   [CV](cv.md)
 -   [Research Projects](research.md)
--   [Publications](publications.md)
+-   [Publications](publications.qmd)
 -   [Presentations](presentations.md)
 -   [Contact Information](contact.md)
 
