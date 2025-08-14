@@ -8,5 +8,5 @@ I currently teach the following courses at the University of Edinburgh:
 
 I have also previously taught *Data Analysis for Psychology in R 2 (DAPR2)* from 2023 - 2025.
 
-I gave an online (recorded) guest lecture for Canterbury Christchurch University on 'using social psychology in event safety' (2023)
+I have given an online (recorded) guest lecture for Canterbury Christchurch University on 'using social psychology in event safety' (2023)
 
