@@ -20,15 +20,15 @@ navigation:
   - title: "Home"
     url: "/"
   - title: "Research"
-    url: "/research"
+    url: "/research.md"
   - title: "Publications"
-    url: "/publications"
+    url: "/publications.md"
   - title: "Teaching"
-    url: "/teaching"
+    url: "/teaching.md"
   - title: "CV"
-    url: "/cv"
+    url: "/cv.md"
   - title: "Contact"
-    url: "/contact"
+    url: "/contact.md"
 
 # Build settings
 markdown: kramdown
