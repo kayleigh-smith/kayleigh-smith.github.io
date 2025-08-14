@@ -1,8 +1,8 @@
 ### Research
 
-#### PhD Research: Understanding the Drivers of Safety at Major Sporting Events (2022 - present)
+#### PhD research: Understanding the drivers of safety at major sporting events (2022 - present)
 
-*Funded by the Scottish Graduate School of Social Science (SGSSS) and the Sports Grounds Safety Authority*
+*Funded by the Scottish Graduate School of Social Science (SGSSS) and the Sports Grounds Safety Authority (SGSA)*
 
 - This project explores the relationships between football fans and their clubs. I investigate how the Social Identity Approach to Leadership applies within these relationships, how football clubs can communicate themselves as identity leaders, and the implications of these relationships on spectator feelings of safety and experience at events
 
@@ -14,7 +14,7 @@
 
 *PI: Dr Anne Templeton, funded by Scottish Government Chief Nursing Office Directorate*
 
-- Research Assistant
+- Research assistant
 
 - Responsibilities included: designing interview schedules, interviewing NHS staff, Reflexive Thematic Analysis, survey development, data cleaning and management, data analysis, collecting behavioural data within hospital settings, analysis of behavioural data, designing and implementing communication interventions, writing reports and knowledge dissemination to key stakeholders 
 
@@ -24,7 +24,7 @@
 
 *PI: Dr Anne Templeton, funded by UK Government Department of Digital, Culture, Media and Sport (DCMS)*
 
-- Research Assistant 
+- Research assistant 
 
 - Responsibilities included: survey design, data collection, data cleaning and management, quantitative analysis using a range of statistical methods, writing reports, and knowledge dissemination to key stakeholders via presentations, e.g., the science board for DCMS 
 
@@ -38,7 +38,7 @@
 
 *PI: Dr Anne Templeton, funded by the Sports Grounds Safety Authority (SGSA)*
 
--   Voluntary Research Assistant
+-   Voluntary research assistant
 
 -   Responsibilities included: quantitative data management and analysis, report writing
 
