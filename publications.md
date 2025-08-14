@@ -2,9 +2,15 @@
 
 ### Pre-prints
 
+<span style="color:#ff6600; font-weight:bold;">Football clubs as identity leaders: Communication and club action on fan-club relationships<span>
+
+
 **Smith, K**., Widdicombe, S., & Templeton, A. (2025).Football clubs as identity leaders: Communication and club action on fan-club relationships. Available from: <https://osf.io/preprints/psyarxiv/5s92x_v1>
 
 ### Journal articles
+
+### Journal Articles
+
 
 **Smith, K**., & Templeton, A. (2024). Identity leadership and adherence to COVID-19 safety measures in hospital settings. *PLoS One, 19*(1), e0293002. <https://doi.org/10.1371/journal.pone.0293002>
 
