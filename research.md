@@ -6,7 +6,7 @@
 
 - This project explores the relationships between football fans and their clubs. I investigate how the Social Identity Approach to Leadership applies within these relationships, how football clubs can communicate themselves as identity leaders, and the implications of these relationships on spectator feelings of safety and experience at events
 
-- Mixed methods approach. Qualitative projects utilise interviews and social media data, and analysed using Reflexive Thematic Analysis and Framework Analysis. Quantitative projects utilise cross-sectional correlation studies and online vignette experiments, and these are analysed using linear models and path analysis
+- Mixed methods approach. Qualitative projects utilise interviews and social media data, and analysed using Reflexive Thematic Analysis and Framework Analysis. Quantitative projects utilise cross-sectional correlation studies and online experiments, and these are analysed using linear models and path analysis
 
 - Pre-print available [here](https://osf.io/preprints/psyarxiv/5s92x_v1)
 
