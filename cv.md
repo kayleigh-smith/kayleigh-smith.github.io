@@ -1,19 +1,24 @@
 ---
+---
 layout: page
 title: Curriculum Vitae
+permalink: /cv
 ---
 
-<div style="text-align: center;">
-
+{: .text-center}
 # Kayleigh Smith
 
-**PhD Student**  
-University of Edinburgh  
-7 George Square, Edinburgh, EH8 9JZ  
+{: .text-center}
+**PhD Student**
 
+{: .text-center}
+University of Edinburgh
+
+{: .text-center}
+7 George Square, Edinburgh, EH8 9JZ
+
+{: .text-center}
 **Email:** kayleigh.smith@ed.ac.uk
-
-</div>
 
 ---
 
