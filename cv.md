@@ -55,17 +55,25 @@ permalink: /cv
 Templeton, A., Vo, S., Alhajri, W., Hinata, S., **Smith, K.**, Nash, C., & Tong, Y. (under review). *With us, for us, or against us: How group relations between safety personnel and the public impact enjoyment, felt safety and behaviour at crowd events*. Review paper submitted to Social and Personality Psychology Compass. <br>
 
 ### Technical Reports
-Templeton, A., Wiseman-Gregg, K., **Smith, K.**, Clegg, G., Stanley, E., Skelton, J., Hlubek, N., & Addison, C. (2022). *Rapid COVID-19 transmission evaluation: Identifying barriers and avenues to safe behaviours in high-risk workplaces*. Available from: https://osf.io/ajumr/ <br>
+Templeton, A., Wiseman-Gregg, K., **Smith, K.**, Clegg, G., Stanley, E., Skelton, J., Hlubek, N., & Addison, C. (2022). *Rapid COVID-19 transmission evaluation: Identifying barriers and avenues to safe behaviours in high-risk workplaces*. Available from: https://osf.io/ajumr/ 
 <br>
-Templeton, A., **Smith, K.**, Jurstakova, K., Dang Guay, J., Ellis, O., Martinez, N., Mao, G., Ulusahin, Y., & Drury, J. (2021). *Factors associated with attendee adherence to COVID-19 guidance during the 2021 DCMS Events Research Programme (final report)*. Available from: https://doi.org/10.13140/RG.2.2.31298.91841 <br>
 <br>
-Jurstakova, K., Ulusahin, Y., **Smith, K.**, Templeton, A., & Drury, J. (2021). *Factors associated with attendee adherence to COVID-19 guidance during the 2021 FA Cup Semi-Final and Carabao Cup Final*. Available from: https://doi.org/10.13140/RG.2.2.20191.59045 <br>
+
+Templeton, A., **Smith, K.**, Jurstakova, K., Dang Guay, J., Ellis, O., Martinez, N., Mao, G., Ulusahin, Y., & Drury, J. (2021). *Factors associated with attendee adherence to COVID-19 guidance during the 2021 DCMS Events Research Programme (final report)*. Available from: https://doi.org/10.13140/RG.2.2.31298.91841 
 <br>
-Ulusahin, Y., **Smith, K.**, Jurstakova, K., Mao, G., Ellis, O., Templeton, A., & Drury, J. (2021). *Factors associated with attendee adherence to COVID-19 guidance during the 2021 FA Cup Final*. Available from: https://doi.org/10.13140/RG.2.2.33613.36326 <br>
 <br>
+
+Jurstakova, K., Ulusahin, Y., **Smith, K.**, Templeton, A., & Drury, J. (2021). *Factors associated with attendee adherence to COVID-19 guidance during the 2021 FA Cup Semi-Final and Carabao Cup Final*. Available from: https://doi.org/10.13140/RG.2.2.20191.59045 
+<br>
+<br>
+
+Ulusahin, Y., **Smith, K.**, Jurstakova, K., Mao, G., Ellis, O., Templeton, A., & Drury, J. (2021). *Factors associated with attendee adherence to COVID-19 guidance during the 2021 FA Cup Final*. Available from: https://doi.org/10.13140/RG.2.2.33613.36326 
+<br>
+<br>
+
 Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith, A. (2020, October 15). *Returning to UK sporting events during COVID-19: Spectator experiences at pilot events*. Sports Grounds Safety Authority. Available from: https://sgsa.org.uk/wp-content/uploads/2020/10/Returning-to-UK-sporting-events-during-COVID-19-Analysis-of-spectator-experiences-at-pilot-events.pdf <br>
-
-
+<br>
+<br>
 
 ---
 
@@ -76,53 +84,74 @@ Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith
 "Football clubs as identity leaders: considering the role of non-traditional leaders in promoting positive intergroup relations" | Collective Action Network, November 2024 (online)
 <br>
 <br>
+
+
 "Understanding the drivers of safety at major sporting events" | Sports Grounds Safety Authority, December 2023 (online)
 <br>
 <br>
+
+
 "Using social psychology in event safety" | Canterbury Christchurch University, April 2023 (online)
 <br>
+<br>
+
+
 
 ### Conferences 
 **Smith, K.**, Widdicombe, S., & Templeton, A. (2025). Football clubs as identity leaders: communication and club action on fan-club relationships. Presentation at International Conference on Social Identity Leadership and Followership, Prague, May. 
+<br>
 
 
 **Smith, K.** (2025) Developing an evaluation and measurement framework for the value based health and care action plan. Poster at SGSSS Impact and Collaboration Showcase, Edinburgh, May. 
+<br>
 
 
 **Smith, K.**, Widdicombe, S., Whitehouse, D., & Templeton, A. (2025). English football clubs as identity leaders: communication and club action on fan-club relationships. Poster at SPSP Annual Convention, Denver, February. 
+<br>
 
 
 **Smith, K.**, Widdicombe, S., Whitehouse, D., & Templeton, A. (2024). “It’s a business” - what is the football club, and how does this contribute to the relationships with its fans? Poster at BPS Scottish Branch Postgraduate Conference, Robert Gordon University, August.
+<br>
 
 
 **Smith, K.**, Widdicombe, S., Whitehouse, D., & Templeton, A. (2024). Football clubs as identity leaders: communication and club action on fan-club relationships. Presentation at BPS Scottish Branch Postgraduate Conference, Robert Gordon University, August.
+<br>
 
 
 **Smith, K.**, Widdicombe, S., Whitehouse, D., & Templeton, A. (2024). “It’s a business” - what is the football club, and how does this contribute to the relationships with its fans? Poster at BPS Social Psychology Section Annual Conference, Queens University Belfast, August. (Awarded Runner-up for Best Poster). 
+<br>
 
 
 **Smith, K.**, Widdicombe, S., Whitehouse, D., & Templeton, A. (2024). Football clubs as identity leaders: communication and club action on fan-club relationships. Blitz Presentation at BPS Social Psychology Section Annual Conference, Queens University Belfast, August.
+<br>
 
 
 **Smith, K.**, Templeton, A., Whitehouse, D., & Widdicombe, S. (2023). Football clubs as identity entrepreneurs in promoting positive relations with fans. Poster at BPS Social Psychology Section Annual Conference, Heriot Watt University, August. 
+<br>
 
 
 **Smith, K.**, Templeton, A., Whitehouse, D., & Widdicombe, S. (2023). Football clubs as identity entrepreneurs in promoting positive relations with fans. Poster at BPS Scottish Branch Postgraduate Section Conference, University of Strathclyde, August. (Awarded Best Poster).
+<br>
 
 
 **Smith, K.**, Templeton, A., & Drury, J. (2023). Social identity processes associated with perceived risk at UK pilot sporting events during COVID-19. Presentation at the European Association of Social Psychology General Meeting, Krakow, July. 
+<br>
 
 
 **Smith, K.**, & Templeton, A. (2022). Group relations with leadership and adherence to COVID-19 measures in hospital settings. Presentation at BPS Social Psychology Section Annual Conference, University of Greenwich, September. 
+<br>
 
 
 **Smith, K.**, Templeton, A, & Drury, J. (2022). Social identity processes associated with perceived risk at early pilot sporting events during COVID-19. Presentation at BPS Social Psychology Section Annual Conference, University of Greenwich, September.  
+<br>
 
 
 **Smith, K.**, & Templeton, A. (2021). The effects of social identity processes on perceived risk at pilot sporting events held during COVID-19. Poster presented at BPS Social Psychology Section Annual Conference, online, August.  
+<br>
 
 
 **Smith, K.** (2021). The effects of social identity processes on perceived risk at pilot sporting events held during COVID-19. Presentation at BPS Scottish Branch Undergraduate Conference, online, April. 
+<br>
 
 ---
 
