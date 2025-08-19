@@ -11,7 +11,7 @@ permalink: /cv
 <p style="text-align: center;">University of Edinburgh<br>
 7 George Square, Edinburgh, EH8 9JZ</p>
 
-<p style="text-align: center;"><strong>Email:</strong> kayleigh.smith@ed.ac.uk</p>
+<p style="text-align: center;">kayleigh.smith@ed.ac.uk</p>
 
 ---
 
