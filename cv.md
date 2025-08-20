@@ -145,11 +145,9 @@ Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith
 **Smith, K.**, Templeton, A, & Drury, J. (2022). Social identity processes associated with perceived risk at early pilot sporting events during COVID-19. Presentation at BPS Social Psychology Section Annual Conference, University of Greenwich, September.  
 <br>
 <br>
-
 **Smith, K.**, & Templeton, A. (2021). The effects of social identity processes on perceived risk at pilot sporting events held during COVID-19. Poster presented at BPS Social Psychology Section Annual Conference, online, August.  
 <br>
 <br>
-
 **Smith, K.** (2021). The effects of social identity processes on perceived risk at pilot sporting events held during COVID-19. Presentation at BPS Scottish Branch Undergraduate Conference, online, April. 
 <br>
 <br>
@@ -168,6 +166,8 @@ Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith
 **SPSP 2025 Annual Convention** 
 - Graduate Registration Stipend: $199
 <br>
+<br>
+
 ---
 
 ## Teaching
@@ -184,6 +184,8 @@ Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith
 **Data Analysis for Psychology in R 2** 
 *2023 - 2025*
 <br>
+<br>
+
 ---
 ## Supervision
 
