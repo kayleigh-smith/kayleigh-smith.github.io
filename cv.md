@@ -13,6 +13,9 @@ permalink: /cv
 
 <p style="text-align: center;">kayleigh.smith@ed.ac.uk</p>
 
+<br>
+<br>
+
 ---
 
 ## Education
@@ -33,9 +36,9 @@ permalink: /cv
 *University of Edinburgh*
 - Dissertation: "The effects of social identity processes on perceived risk at pilot sporting events held during COVID-19"
 - Supervised by Dr Anne Templeton 
+<br>
 
 ---
-
 
 ## Publications
 
@@ -44,8 +47,6 @@ permalink: /cv
 **Smith, K.**, & Templeton, A. (2024). Identity leadership and adherence to COVID-19 safety measures in hospital settings. *PLoS One, 19*(1), e0293002. https://doi.org/10.1371/journal.pone.0293002 <br>
 <br>
 **Smith, K.**, & Templeton, A. (2022). Social identity processes associated with perceived risk at pilot sporting events during COVID-19. *British Journal of Social Psychology, 61*(4), 1376-1399. https://doi.org/10.1111/bjso.12541
-<br>
-<br>
 <br>
 <br>
 
@@ -71,10 +72,9 @@ Ulusahin, Y., **Smith, K.**, Jurstakova, K., Mao, G., Ellis, O., Templeton, A., 
 <br>
 <br>
 
-Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith, A. (2020, October 15). *Returning to UK sporting events during COVID-19: Spectator experiences at pilot events*. Sports Grounds Safety Authority. Available from: https://sgsa.org.uk/wp-content/uploads/2020/10/Returning-to-UK-sporting-events-during-COVID-19-Analysis-of-spectator-experiences-at-pilot-events.pdf <br>
+Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith, A. (2020, October 15). *Returning to UK sporting events during COVID-19: Spectator experiences at pilot events*. Sports Grounds Safety Authority. Available from: https://sgsa.org.uk/wp-content/uploads/2020/10/Returning-to-UK-sporting-events-during-COVID-19-Analysis-of-spectator-experiences-at-pilot-events.pdf 
 <br>
 <br>
-
 ---
 
 ## Presentations
@@ -100,57 +100,58 @@ Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith
 ### Conferences 
 **Smith, K.**, Widdicombe, S., & Templeton, A. (2025). Football clubs as identity leaders: communication and club action on fan-club relationships. Presentation at International Conference on Social Identity Leadership and Followership, Prague, May. 
 <br>
-
+<br>
 
 **Smith, K.** (2025) Developing an evaluation and measurement framework for the value based health and care action plan. Poster at SGSSS Impact and Collaboration Showcase, Edinburgh, May. 
 <br>
-
+<br>
 
 **Smith, K.**, Widdicombe, S., Whitehouse, D., & Templeton, A. (2025). English football clubs as identity leaders: communication and club action on fan-club relationships. Poster at SPSP Annual Convention, Denver, February. 
 <br>
-
+<br>
 
 **Smith, K.**, Widdicombe, S., Whitehouse, D., & Templeton, A. (2024). “It’s a business” - what is the football club, and how does this contribute to the relationships with its fans? Poster at BPS Scottish Branch Postgraduate Conference, Robert Gordon University, August.
 <br>
-
+<br>
 
 **Smith, K.**, Widdicombe, S., Whitehouse, D., & Templeton, A. (2024). Football clubs as identity leaders: communication and club action on fan-club relationships. Presentation at BPS Scottish Branch Postgraduate Conference, Robert Gordon University, August.
 <br>
-
+<br>
 
 **Smith, K.**, Widdicombe, S., Whitehouse, D., & Templeton, A. (2024). “It’s a business” - what is the football club, and how does this contribute to the relationships with its fans? Poster at BPS Social Psychology Section Annual Conference, Queens University Belfast, August. (Awarded Runner-up for Best Poster). 
 <br>
-
+<br>
 
 **Smith, K.**, Widdicombe, S., Whitehouse, D., & Templeton, A. (2024). Football clubs as identity leaders: communication and club action on fan-club relationships. Blitz Presentation at BPS Social Psychology Section Annual Conference, Queens University Belfast, August.
 <br>
-
+<br>
 
 **Smith, K.**, Templeton, A., Whitehouse, D., & Widdicombe, S. (2023). Football clubs as identity entrepreneurs in promoting positive relations with fans. Poster at BPS Social Psychology Section Annual Conference, Heriot Watt University, August. 
 <br>
-
+<br>
 
 **Smith, K.**, Templeton, A., Whitehouse, D., & Widdicombe, S. (2023). Football clubs as identity entrepreneurs in promoting positive relations with fans. Poster at BPS Scottish Branch Postgraduate Section Conference, University of Strathclyde, August. (Awarded Best Poster).
 <br>
-
+<br>
 
 **Smith, K.**, Templeton, A., & Drury, J. (2023). Social identity processes associated with perceived risk at UK pilot sporting events during COVID-19. Presentation at the European Association of Social Psychology General Meeting, Krakow, July. 
 <br>
-
+<br>
 
 **Smith, K.**, & Templeton, A. (2022). Group relations with leadership and adherence to COVID-19 measures in hospital settings. Presentation at BPS Social Psychology Section Annual Conference, University of Greenwich, September. 
 <br>
-
+<br>
 
 **Smith, K.**, Templeton, A, & Drury, J. (2022). Social identity processes associated with perceived risk at early pilot sporting events during COVID-19. Presentation at BPS Social Psychology Section Annual Conference, University of Greenwich, September.  
 <br>
-
+<br>
 
 **Smith, K.**, & Templeton, A. (2021). The effects of social identity processes on perceived risk at pilot sporting events held during COVID-19. Poster presented at BPS Social Psychology Section Annual Conference, online, August.  
 <br>
-
+<br>
 
 **Smith, K.** (2021). The effects of social identity processes on perceived risk at pilot sporting events held during COVID-19. Presentation at BPS Scottish Branch Undergraduate Conference, online, April. 
+<br>
 <br>
 
 ---
@@ -166,10 +167,10 @@ Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith
 
 **SPSP 2025 Annual Convention** 
 - Graduate Registration Stipend: $199
-
+<br>
 ---
 
-## Teaching Experience
+## Teaching
 
 **General Statistics Tutor**
 *2025 - Present*
@@ -182,23 +183,20 @@ Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith
 
 **Data Analysis for Psychology in R 2** 
 *2023 - 2025*
-
+<br>
 ---
-## Supervision Experience
+## Supervision
 
 - Management of Undergraduate Voluntary Research Assistants (7 total)
 
 ---
 
-## Service
-
 ### Reviewing Activities
 - Bulletin of the World Health Organisation 
 - 2023 General Meeting of the European Association of Social Psychology
-i
----
 
-## Professional Memberships
+
+### Professional Memberships
 
 - European Association of Social Psychology (2025 - Present)
 - Society for Personality and Social Psychology (2024 - Present)
