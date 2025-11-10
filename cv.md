@@ -51,7 +51,7 @@ permalink: /cv
 <br>
 
 #### Under Review
-**Smith, K.**, Widdicombe, S., & Templeton, A. (under review). *Football clubs as identity leaders: Communication and action on fan-club relationships*. https://doi.org/10.31234/osf.io/5s92x_v1 <br>
+**Smith, K.**, Widdicombe, S., & Templeton, A. (under review). *Football clubs as identity leaders: Communication and action on fan-club relationships*. https://doi.org/10.31234/osf.io/5s92x_v2 <br>
 <br>
 Templeton, A., Vo, S., Alhajri, W., Hinata, S., **Smith, K.**, Nash, C., & Tong, Y. (under review). *With us, for us, or against us: How group relations between safety personnel and the public impact enjoyment, felt safety and behaviour at crowd events*. Review paper submitted to Social and Personality Psychology Compass. <br>
 
@@ -98,6 +98,10 @@ Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith
 
 
 ### Conferences 
+**Smith, K.**, Widdicombe, S., & Templeton, A. (2025). Football club communication: A framework analysis of club social media and email communication as promoting togetherness and identity leadership. Presentation at BPS Social Psychology Section Annual Conference, University of Oxford, September. 
+<br>
+<br>
+
 **Smith, K.**, Widdicombe, S., & Templeton, A. (2025). Football clubs as identity leaders: communication and club action on fan-club relationships. Presentation at International Conference on Social Identity Leadership and Followership, Prague, May. 
 <br>
 <br>
@@ -189,7 +193,8 @@ Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith
 ---
 ## Supervision
 
-- Management of Undergraduate Voluntary Research Assistants (7 total)
+- Supervision of Year 4 Honours Dissertations 
+- Management of Undergraduate Voluntary Research Assistants
 
 ---
 
@@ -207,4 +212,4 @@ Templeton, A., **Smith, K.**, Dang Guay, J., Barker, N., Whitehouse, D., & Smith
 ---
 
 
-*Last updated: August 2025*
+*Last updated: November 2025*
